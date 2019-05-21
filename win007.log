@@ -1,0 +1,82 @@
+2019-02-07 08:25:46,591 - win007_spider - parse - 821 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20004, severity 9:\nRead from the server failed (61.155.204.69:1433)\nNet-Lib error during Unknown error (10054)\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (61.155.204.69:1433)\n')
+2019-02-07 08:26:48,838 - win007_spider - parse - 821 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (61.155.204.69:1433)\nNet-Lib error during Unknown error (10060)\n')
+2019-02-07 08:27:50,702 - win007_spider - parse - 821 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (61.155.204.69:1433)\nNet-Lib error during Unknown error (10060)\n')
+2019-02-07 08:28:52,625 - win007_spider - parse - 821 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (61.155.204.69:1433)\nNet-Lib error during Unknown error (10060)\n')
+2019-02-07 08:29:54,576 - win007_spider - parse - 821 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (61.155.204.69:1433)\nNet-Lib error during Unknown error (10060)\n')
+2019-02-07 08:30:56,504 - win007_spider - parse - 821 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (61.155.204.69:1433)\nNet-Lib error during Unknown error (10060)\n')
+2019-02-07 08:31:58,431 - win007_spider - parse - 821 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (61.155.204.69:1433)\nNet-Lib error during Unknown error (10060)\n')
+2019-02-07 08:33:00,259 - win007_spider - parse - 821 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (61.155.204.69:1433)\nNet-Lib error during Unknown error (10060)\n')
+2019-02-07 08:34:02,174 - win007_spider - parse - 821 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (61.155.204.69:1433)\nNet-Lib error during Unknown error (10060)\n')
+2019-02-07 08:35:03,935 - win007_spider - parse - 821 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (61.155.204.69:1433)\nNet-Lib error during Unknown error (10060)\n')
+2019-02-07 08:36:05,719 - win007_spider - parse - 821 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (61.155.204.69:1433)\nNet-Lib error during Unknown error (10060)\n')
+2019-02-07 08:37:07,375 - win007_spider - parse - 821 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (61.155.204.69:1433)\nNet-Lib error during Unknown error (10060)\n')
+2019-02-07 08:38:09,032 - win007_spider - parse - 821 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (61.155.204.69:1433)\nNet-Lib error during Unknown error (10060)\n')
+2019-02-07 08:39:10,667 - win007_spider - parse - 821 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (61.155.204.69:1433)\nNet-Lib error during Unknown error (10060)\n')
+2019-02-07 08:40:12,325 - win007_spider - parse - 821 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (61.155.204.69:1433)\nNet-Lib error during Unknown error (10060)\n')
+2019-03-28 16:19:37,326 - __main__ - parse_ing - 1138 - WARNING - 数据库异常(1292, "Incorrect datetime value: '19-03-29 01:00 ' for column '时间' at row 1")
+2019-03-28 16:19:37,369 - __main__ - parse_ing - 1143 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:19:38,565 - __main__ - parse_ing - 1138 - WARNING - 数据库异常(1292, "Incorrect datetime value: '19-03-29 03:30 ' for column '时间' at row 1")
+2019-03-28 16:19:38,565 - __main__ - parse_ing - 1143 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:19:39,695 - __main__ - parse_ing - 1138 - WARNING - 数据库异常(1292, "Incorrect datetime value: '19-03-29 03:30 ' for column '时间' at row 1")
+2019-03-28 16:19:39,695 - __main__ - parse_ing - 1143 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:19:40,764 - __main__ - parse_ing - 1138 - WARNING - 数据库异常(1292, "Incorrect datetime value: '19-03-29 06:15 ' for column '时间' at row 1")
+2019-03-28 16:19:40,764 - __main__ - parse_ing - 1143 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:23:37,203 - __main__ - parse - 821 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:23:38,645 - __main__ - parse - 821 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:23:39,974 - __main__ - parse - 821 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:23:41,207 - __main__ - parse - 821 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:23:42,348 - __main__ - parse - 821 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:37:11,271 - __main__ - parse_ing - 1139 - WARNING - 数据库异常(1292, "Incorrect datetime value: '19-03-29 01:00 ' for column '时间' at row 1")
+2019-03-28 16:37:11,271 - __main__ - parse_ing - 1144 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:37:12,387 - __main__ - parse_ing - 1139 - WARNING - 数据库异常(1292, "Incorrect datetime value: '19-03-29 03:30 ' for column '时间' at row 1")
+2019-03-28 16:37:12,387 - __main__ - parse_ing - 1144 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:37:13,472 - __main__ - parse_ing - 1139 - WARNING - 数据库异常(1292, "Incorrect datetime value: '19-03-29 03:30 ' for column '时间' at row 1")
+2019-03-28 16:37:13,472 - __main__ - parse_ing - 1144 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:37:14,543 - __main__ - parse_ing - 1139 - WARNING - 数据库异常(1292, "Incorrect datetime value: '19-03-29 06:15 ' for column '时间' at row 1")
+2019-03-28 16:37:14,544 - __main__ - parse_ing - 1144 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:38:33,312 - __main__ - parse - 822 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:38:34,787 - __main__ - parse - 822 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:38:35,905 - __main__ - parse - 822 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:38:37,038 - __main__ - parse - 822 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:38:38,187 - __main__ - parse - 822 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:38:39,379 - __main__ - parse - 822 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:38:40,854 - __main__ - parse - 822 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:40:51,716 - __main__ - parse - 822 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:40:53,015 - __main__ - parse - 822 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:40:54,177 - __main__ - parse - 822 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:43:22,078 - __main__ - parse_ing - 1143 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:43:23,211 - __main__ - parse_ing - 1143 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:43:24,352 - __main__ - parse_ing - 1143 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:43:25,503 - __main__ - parse_ing - 1143 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:45:25,916 - __main__ - parse_ing - 1143 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:45:27,090 - __main__ - parse_ing - 1143 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:45:28,241 - __main__ - parse_ing - 1143 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:45:29,390 - __main__ - parse_ing - 1143 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:47:36,055 - __main__ - parse_ing - 1144 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:47:37,212 - __main__ - parse_ing - 1144 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:47:38,310 - __main__ - parse_ing - 1144 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:47:39,546 - __main__ - parse_ing - 1144 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:49:15,403 - __main__ - parse_ing - 1144 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:49:16,509 - __main__ - parse_ing - 1144 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:49:18,350 - __main__ - parse_ing - 1144 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 16:49:19,692 - __main__ - parse_ing - 1144 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 18:35:44,871 - __main__ - parse_ing - 1145 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 18:35:46,096 - __main__ - parse_ing - 1145 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 18:35:47,286 - __main__ - parse_ing - 1145 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 18:35:48,445 - __main__ - parse_ing - 1145 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 18:37:31,222 - __main__ - parse_ing - 1145 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 18:37:32,430 - __main__ - parse_ing - 1145 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 18:37:33,631 - __main__ - parse_ing - 1145 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 18:37:34,809 - __main__ - parse_ing - 1145 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 18:38:56,705 - __main__ - parse_ing - 1145 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 18:38:57,812 - __main__ - parse_ing - 1145 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 18:38:58,946 - __main__ - parse_ing - 1145 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 18:39:00,134 - __main__ - parse_ing - 1145 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 18:41:14,599 - __main__ - parse_ing - 1149 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 18:41:15,791 - __main__ - parse_ing - 1149 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 18:41:16,908 - __main__ - parse_ing - 1149 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 18:41:18,058 - __main__ - parse_ing - 1149 - WARNING - 数据库入库出错'Spider' object has no attribute 'host'
+2019-03-28 18:52:20,627 - __main__ - parse_ing - 1149 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20004, severity 9:\nRead from the server failed (61.155.204.69:1433)\nNet-Lib error during Unknown error (10054)\nDB-Lib error message 20002, severity 9:\nAdaptive Server connection failed (61.155.204.69:1433)\n')
+2019-03-28 18:53:22,095 - __main__ - parse_ing - 1149 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (61.155.204.69:1433)\nNet-Lib error during Unknown error (10060)\n')
+2019-03-28 18:54:23,372 - __main__ - parse_ing - 1149 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (61.155.204.69:1433)\nNet-Lib error during Unknown error (10060)\n')
+2019-03-28 18:55:24,550 - __main__ - parse_ing - 1149 - WARNING - 数据库入库出错(20004, b'DB-Lib error message 20009, severity 9:\nUnable to connect: Adaptive Server is unavailable or does not exist (61.155.204.69:1433)\nNet-Lib error during Unknown error (10060)\n')
